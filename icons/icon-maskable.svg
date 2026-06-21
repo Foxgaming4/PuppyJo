@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#ffb03a"/>
+      <stop offset="0.6" stop-color="#ff5d8f"/>
+      <stop offset="1" stop-color="#b15dff"/>
+    </linearGradient>
+  </defs>
+  <rect width="512" height="512" fill="url(#bg)"/>
+  <!-- puppy scaled into the maskable safe zone (centred ~76%) -->
+  <g transform="translate(256 268) scale(0.74) translate(-256 -262)">
+    <ellipse cx="150" cy="210" rx="58" ry="92" fill="#c98a4f" transform="rotate(-18 150 210)"/>
+    <ellipse cx="362" cy="210" rx="58" ry="92" fill="#c98a4f" transform="rotate(18 362 210)"/>
+    <circle cx="256" cy="262" r="138" fill="#e0a96d"/>
+    <ellipse cx="256" cy="318" rx="84" ry="66" fill="#f6dcc0"/>
+    <circle cx="206" cy="246" r="26" fill="#fff"/>
+    <circle cx="306" cy="246" r="26" fill="#fff"/>
+    <circle cx="212" cy="252" r="14" fill="#1c1c28"/>
+    <circle cx="312" cy="252" r="14" fill="#1c1c28"/>
+    <ellipse cx="256" cy="300" rx="24" ry="18" fill="#3a2a22"/>
+    <path d="M256 318 q-26 34 -56 14 M256 318 q26 34 56 14" stroke="#3a2a22" stroke-width="9" fill="none" stroke-linecap="round"/>
+    <ellipse cx="256" cy="352" rx="20" ry="26" fill="#ff6b8a"/>
+  </g>
+</svg>

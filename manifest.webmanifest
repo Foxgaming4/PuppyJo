@@ -1,0 +1,17 @@
+{
+  "name": "Puppy Runner — Endless Runner Adventure",
+  "short_name": "Puppy Runner",
+  "description": "Run, jump and slide through 8 beautiful worlds. Collect bones, grab power-ups, unlock puppies and beat your high score. Plays offline!",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "fullscreen",
+  "orientation": "any",
+  "background_color": "#0f1226",
+  "theme_color": "#0f1226",
+  "categories": ["games", "entertainment"],
+  "lang": "en",
+  "icons": [
+    { "src": "icons/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" },
+    { "src": "icons/icon-maskable.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "maskable" }
+  ]
+}
